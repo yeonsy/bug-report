@@ -16,3 +16,7 @@ when ComboBox `options` prop is updated the displayed options do not change
 4. click outside combobox (trigger a blur event)
 5. click on combobox - now list of vegetables is shown
 
+---
+
+reported as https://github.com/trussworks/react-uswds/issues/2182
+
